@@ -90,6 +90,8 @@ nav li, a{
     
 }
 
-.sla2 li {
+.sla2 a {
+    text-align: center;
+    
 }
 
