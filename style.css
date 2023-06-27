@@ -88,6 +88,7 @@ nav li, a{
     height: 250px;
     border-radius: 50%;
     
+    
 }
 
 .sla2 a {
@@ -95,3 +96,13 @@ nav li, a{
     
 }
 
+.sla2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+    
+}
+
+.nav3 ul {
+    width: 98%;
+}
