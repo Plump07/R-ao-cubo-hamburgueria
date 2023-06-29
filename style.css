@@ -21,7 +21,8 @@ header {
 header input {
     color: black;
     position: relative;
-    left: 550px;
+    margin-left: 1150px;
+    
 }
 
 header img {
@@ -133,35 +134,35 @@ nav li, a{
 
 main {
     width: 100%;
-    height: 800px;
-    position: relative;
-    left: 80px;
+    height: 1200px;
     
     
 }
 
 main h2 {
-    margin-left: 20px;
+    text-align: left;
+    margin-left: 110px;
+    
 }
 
 .produto1 {
     display: block;
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 400px;
     float: left;
-    text-align: center;
-    margin-left: 20px;
-    margin-top: 50px;
-
+    margin-left: 110px;
+    margin-top: 10px;
 }
 
 .produto1 img {
-    display: block;
-    width: 250px;
-    height: 250px;
+    display: flex;
+    width: 300px;
+    height: 300px;
+
 }
 
 .produto1 h3 {
-    margin-top: 5px;
+    margin-top: 10px;
 }
+
 
